@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="88e5adc0-3674-48ec-b78d-a55858a96ea9">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>homestead.*</schema-pattern>
+      <default-schemas>phpmyadmin.*</default-schemas>
+    </data-source>
+    <data-source name="order_take_away_food" uuid="da169fea-bff2-48f2-a627-2758f3278df5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>order_take_away_food.*</schema-pattern>
+      <default-schemas>phpmyadmin.*</default-schemas>
+    </data-source>
+  </component>
+</project>
